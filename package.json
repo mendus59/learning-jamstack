@@ -1,0 +1,14 @@
+{
+  "name": "learning-jamstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "pat@mendus.tech <pat@mendus.tech>",
+  "license": "MIT",
+  "dependencies": {}
+}
