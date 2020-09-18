@@ -11,6 +11,8 @@
   "author": "pat@mendus.tech <pat@mendus.tech>",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0"
   }
 }
